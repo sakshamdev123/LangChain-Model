@@ -1,9 +1,9 @@
-## LangChain-Model
+# LangChain-Model
 
-# Project Overview
+## Project Overview
 Welcome to the LangChain project! This project is a powerful framework that leverages OpenAI's large language model (LLM) through its API to facilitate various language-related tasks. The framework is designed to be versatile, allowing users to process data, generate essays, and execute custom operations using prompts and templates.
 
-# Features
+## Features
 1. LangChain Integration with OpenAI's LLM
 The LangChain framework is seamlessly integrated with OpenAI's large language model (LLM) through its API. This integration allows users to harness the capabilities of the language model for a wide range of applications.
 
@@ -19,7 +19,7 @@ A specialized model has been constructed to empower individuals to generate essa
 5. LLMChain
 The LLMChain functionality acts as a bridge between the user-provided prompts and the LLM. This layer enhances the capabilities of the language model, making it more user-friendly and adaptable to different tasks.
 
-# Getting Started
+## Getting Started
 To get started with the LangChain project, follow these steps:
 
 Clone the repository: git clone [repository_url]
